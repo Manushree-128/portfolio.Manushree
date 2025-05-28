@@ -1,0 +1,28 @@
+
+body{
+    margin:0;
+    font-family:'Franklin Gothic Medium','Arial Narrow','Arial',sans-seirf;
+    padding:30px;
+}
+.Education h2{
+
+    color:brown;
+    
+}
+.Skills h2{
+    color:brown;
+   
+}
+.Projects h2{
+    color:brown;
+  
+}
+.Overview h2{
+    color:brown;
+}
+.contact_Form h3{
+    color:brown;
+}
+.name h1{
+    color:purple;
+}
